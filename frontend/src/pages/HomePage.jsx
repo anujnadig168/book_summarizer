@@ -31,7 +31,7 @@ const HomePage = () => {
           <div style={{ padding: '1rem' }}>
             <div>
               <img 
-                src={ require('/mnt/wsl/book_summarizer/frontend/src/homepage_book.jpg') }
+                src={ require('/home/anuj/book_summarizer/frontend/src/homepage_book.jpg') }
                 width={450} height={450}
                 alt="book"
               />
